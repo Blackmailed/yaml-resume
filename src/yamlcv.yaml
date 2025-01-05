@@ -1,0 +1,14 @@
+details:
+  first_name: Daniil
+  last_name: Sudakov
+  title: Developer
+
+profile: |
+  Write in Python and C#.
+
+contact:
+  - text: GitHub
+    url: "https://github.com/Blackmailed"
+    icon: github
+
+technical: []

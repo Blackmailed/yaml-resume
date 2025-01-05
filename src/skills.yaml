@@ -1,0 +1,26 @@
+category:
+  - &lang
+    Language
+  - &db
+    Databases
+skills:
+- name: SQL
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: python
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: c#
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: PostgreSQL
+  level: junior
+  category: *db
+  labels:
+    - databases
